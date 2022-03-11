@@ -1,7 +1,7 @@
 ---
 layout: blog
-published: false
-category: posts
+published: true
+category: draft
 tags: null
 title: The role a task orchestrator in CI
 ---
